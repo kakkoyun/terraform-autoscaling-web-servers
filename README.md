@@ -50,7 +50,7 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 * **Kemal Akkoyun** - *Initial work* - [kakkoyun](https://github.com/kakkoyun)
 
-See also the list of [contributors](https://github.com/kakkoyun/terraform-cluster-of-web-servers/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/kakkoyun/terraform-autoscaling-web-servers/graphs/contributors) who participated in this project.
 
 ## License
 
